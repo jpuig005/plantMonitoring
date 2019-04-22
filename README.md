@@ -16,7 +16,7 @@ Simple Plant Monitoring System based on a Wemos D1 mini microcontroller. The sys
 
 The shells holding the sensors and microcontroller can be found here: https://www.thingiverse.com/thing:3580574
 
-# Circutry
+# Circuitry
 
 The temperature and humidity sensor is connected to a digital pin (A 10K Ohm pull-up resistor is needed between the signal line and 5V line to make sure the signal level stays high by default). More info about how to connect this sensor: http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
 
