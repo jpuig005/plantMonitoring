@@ -20,7 +20,7 @@ The shells holding the sensors and microcontroller can be found here: https://ww
 
 The temperature and humidity sensor is connected to a digital pin (A 10K Ohm pull-up resistor is needed between the signal line and 5V line to make sure the signal level stays high by default). More info about how to connect this sensor: http://www.circuitbasics.com/how-to-set-up-the-dht11-humidity-sensor-on-an-arduino/
 
-As the Wemos D1 mini has only one analog pin, a simple multiplexer connects the Light and Moisutre sensor to the analog pin. here you can find how this is done: https://www.instructables.com/id/Multiple-Analog-Inputs-on-Only-One-Analoge-Pin/
+As the Wemos D1 mini has only one analog pin, a simple multiplexer connects the Light and Moisutre sensors to a single analog pin. here you can find how this is done: https://www.instructables.com/id/Multiple-Analog-Inputs-on-Only-One-Analoge-Pin/
 
 # App
 
