@@ -24,5 +24,5 @@ As the Wemos D1 mini has only one analog pin, a simple multiplexer connects the 
 
 # App
 
-Blynk was used to create the app. There is a screenshoot of the user interface. 
+Blynk was used to create the app. There is a screenshoot of the user interface (IMG_0788.PNG). 
 
